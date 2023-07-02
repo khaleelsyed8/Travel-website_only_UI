@@ -38,5 +38,5 @@ The project directory is structured as follows:
 
 Feel free to customize the content, styles, and images to fit your desired travel destinations and preferences. You can also add additional features and pages as needed.
 
-## Credits:
-[Sheik Anas](https://www.youtube.com/@MrWebDesignerAnas)
+## Credits: [Sheik Anas](https://www.youtube.com/@MrWebDesignerAnas)
+
